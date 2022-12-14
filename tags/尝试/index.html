@@ -43,7 +43,8 @@
           font-size: 1.6rem;
         }
       </style>
-    </head>
+    <link rel="alternate" href="/atom.xml" title="vJanGo'blog" type="application/atom+xml">
+</head>
   </html>
 </html>
 
@@ -51,6 +52,17 @@
 <body>
   <div id="app">
     
+      <canvas class="fireworks"></canvas>
+      <style>
+        .fireworks {
+          position: fixed;
+          left: 0;
+          top: 0;
+          z-index: 99999;
+          pointer-events: none;
+        }
+      </style>
+      
       
     <main class="content on">
       <section class="outer">
@@ -227,6 +239,10 @@
     
     <li class="nav-item">
       <a class="nav-item-link" href="/tags/%E8%87%B4%E8%B0%A2/">致谢</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/comment">留言板</a>
     </li>
     
   </ul>
@@ -407,11 +423,13 @@
 <script src="/js/busuanzi-2.3.pure.min.js"></script>
  
 <!-- ClickLove -->
- 
-<script src="/js/clickLove.js"></script>
- 
+
 <!-- ClickBoom1 -->
 
+<script src="https://cdn.staticfile.org/animejs/3.2.1/anime.min.js"></script>
+
+<script src="/js/clickBoom1.js"></script>
+ 
 <!-- ClickBoom2 -->
 
 <!-- CodeCopy -->

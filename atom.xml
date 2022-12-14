@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>vJanGo&#39;blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-12-12T04:08:50.375Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>vJanGo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在最前</title>
+    <link href="http://example.com/2022/12/10/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D/"/>
+    <id>http://example.com/2022/12/10/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D/</id>
+    <published>2022-12-10T13:11:24.000Z</published>
+    <updated>2022-12-12T04:08:50.375Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;写在最前&quot;&gt;&lt;a href=&quot;#写在最前&quot; class=&quot;headerlink&quot; title=&quot;写在最前&quot;&gt;&lt;/a&gt;写在最前&lt;/h1&gt;&lt;h2 id=&quot;构想&quot;&gt;&lt;a href=&quot;#构想&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="尝试" scheme="http://example.com/tags/%E5%B0%9D%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>try</title>
+    <link href="http://example.com/2022/12/10/try/"/>
+    <id>http://example.com/2022/12/10/try/</id>
+    <published>2022-12-10T08:07:52.000Z</published>
+    <updated>2022-12-10T11:23:22.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;测试写作与图片&quot;&gt;&lt;a href=&quot;#测试写作与图片&quot; class=&quot;headerlink&quot; title=&quot;测试写作与图片&quot;&gt;&lt;/a&gt;测试写作与图片&lt;/h1&gt;&lt;h2 id=&quot;首先是可爱的Sana酱-）&quot;&gt;&lt;a href=&quot;#首先是可爱的Sana酱-）&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="尝试" scheme="http://example.com/tags/%E5%B0%9D%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
