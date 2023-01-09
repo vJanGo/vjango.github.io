@@ -3,9 +3,11 @@
   <entry>
     <title>写在最前</title>
     <url>/2022/12/10/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D/</url>
-    <content><![CDATA[<h1 id="写在最前"><a href="#写在最前" class="headerlink" title="写在最前"></a>写在最前</h1><h2 id="构想"><a href="#构想" class="headerlink" title="构想"></a>构想</h2><p>关于构建个人blog,早年前已有此打算，今日终于实现了罢。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="写在最前"><a href="#写在最前" class="headerlink" title="写在最前"></a>写在最前</h1><h2 id="构想"><a href="#构想" class="headerlink" title="构想"></a>构想</h2><p>关于构建个人blog,早年前已有此打算，今日终于实现了罢。</p>
 <h2 id="开始行动"><a href="#开始行动" class="headerlink" title="开始行动"></a>开始行动</h2><p>在某节数学课上，上到一半突然觉得索然无味，便打开<em>知乎</em>，一则名为构建个人博客的推我让我来了兴趣，果断逃掉这节课（ </p>
 <p>跟着做了几步，顿觉兴趣盎然，便一头扎了进来。</p>
+<span id="more"></span>
+
 <p>老实说，基本上所有的内核，模板都已经摆好了放在哪里，我只是按照藏宝图把它们一个个挖掘出来然后拼接，组装。难度甚至不如我的工数作业4-9</p>
 <p>然而，在安装过程中还是会有各种各样大大小小的问题，它们就像炎热夏季晚上在你耳边不短飞翔的蚊子，你渴望它们少一点，停下来，但它们只会愈加猖狂，最后到了让你恶心的地步。</p>
 <p>按照我的理解，这个博客网站，由GitHub提供了后台，上传HTML，插件这些，由hexo提供了内核，负责博客的运行，然后我又用了Ayer的主题，使页面美观。Ayer在某种语言中（抱歉我忘记了）是“岛”的意思，印照了主页上那片海，我觉得很美好，很安逸。还有，知乎的大神“<a href="https://www.zhihu.com/people/mai-nv-hai-de-xiao-huo-chai-35-19">枫叶</a>”全程提供了指导，再次对各位一一感谢，与其说我做出来这个blog，毋宁说是集成了各位的成果。</p>
@@ -35,8 +37,9 @@
   <entry>
     <title>年终总结</title>
     <url>/2022/12/31/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h1 id="年终总结"><a href="#年终总结" class="headerlink" title="年终总结"></a><strong>年终总结</strong></h1><h2 id="PART-ONE-概述"><a href="#PART-ONE-概述" class="headerlink" title="PART  ONE  概述"></a>PART  ONE  概述</h2><p>难以想象的，这一年就这样结束了，如此魔幻的一年结束了，无论是对我个人而言，还是对这个世界，这一年需要记录下来，成为我人生中的一笔，融入历史的这一章。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="年终总结"><a href="#年终总结" class="headerlink" title="年终总结"></a><strong>年终总结</strong></h1><h2 id="PART-ONE-概述"><a href="#PART-ONE-概述" class="headerlink" title="PART  ONE  概述"></a>PART  ONE  概述</h2><p>难以想象的，这一年就这样结束了，如此魔幻的一年结束了，无论是对我个人而言，还是对这个世界，这一年需要记录下来，成为我人生中的一笔，融入历史的这一章。</p>
 <h2 id="PART-TWO-开始"><a href="#PART-TWO-开始" class="headerlink" title="PART  TWO  开始"></a>PART  TWO  开始</h2><p>故事要从哪里讲起，已经不大能够记得清了。2022年元旦这一天发生了什么也已经无从考究了，但不可否认的是，2022年从这一天开始了。<br>找到了那天发过的说说,看上去也是平平无奇</p>
+<span id="more"></span>
 <img src="/2022/12/31/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/1.png" class title="new year">
 <p>这一年的元旦大概是在学校旁的出租屋里度过的，那是一个极其简陋的屋子，甚至阳台都是水泥，没有厨房只有一只锅，然而因为所谓的“学区房”几字，使得它身价倍增。但是不得不说，这一年的陪读经历也弥足珍贵，留下了一些有趣的回忆。</p>
 <h2 id="PART-THREE-无聊又有聊的日子"><a href="#PART-THREE-无聊又有聊的日子" class="headerlink" title="PART  THREE  无聊又有聊的日子"></a>PART  THREE  无聊又有聊的日子</h2><p>难以描述我的高三生活，以至于半年以后都有些不太清晰了。百日前后，学校拉横幅，每个班门口都拉一条，上面堆满了大大小小的愿望，还有一句所谓励志的标语，但是我只记得前四个字是”厉兵秣马”了。我也在上面写下了自己的愿望，那时候的我也是很矛盾，一方面心里一直惦记着NJU，但自知平庸，又想去车大圆了金陵梦（实际上在当时来看，能去车大已经是谢天谢地咯），另一方面，我又迫不及待地想去研发芯片，想去尼电。实话实说，当时我那个成绩已经黯然失色，颇显无力，进前百都是个大问题，这些愿望已经是奢望了。</p>
@@ -106,9 +109,10 @@
   <entry>
     <title>关于AI的新想法</title>
     <url>/2023/01/02/2023-1-2-%E5%85%B3%E4%BA%8EAI%E7%9A%84%E6%96%B0%E6%83%B3%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="关于AI的一些想法"><a href="#关于AI的一些想法" class="headerlink" title="关于AI的一些想法"></a><strong>关于AI的一些想法</strong></h1><p>这两天Chatgpt成为了火热的东西，在几天之内突破了500w用户（还是100w?忘了），最初我是去让它写代码的，后来发现写论文，写题，样样精通。当然，在某些方面它还是不够专业，或者说还不够智能，很多问题都无法解答或者给出正确的答案，比方说我在用chatgpt写一个F语言（当然是我没学过的）程序的时候，总是出现没结果的现象，不知道是代码的原因还是我的原因，但是它所给出的解决方案都无济于事。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于AI的一些想法"><a href="#关于AI的一些想法" class="headerlink" title="关于AI的一些想法"></a><strong>关于AI的一些想法</strong></h1><p>这两天Chatgpt成为了火热的东西，在几天之内突破了500w用户（还是100w?忘了），最初我是去让它写代码的，后来发现写论文，写题，样样精通。当然，在某些方面它还是不够专业，或者说还不够智能，很多问题都无法解答或者给出正确的答案，比方说我在用chatgpt写一个F语言（当然是我没学过的）程序的时候，总是出现没结果的现象，不知道是代码的原因还是我的原因，但是它所给出的解决方案都无济于事。</p>
 <p>但这并不影响chatgpt的魅力，我还记得用chatgpt写出来一个带留言板的博客，虽然界面简陋之惨不忍睹,但是还是令我大为震惊。</p>
 <img src="/2023/01/02/2023-1-2-%E5%85%B3%E4%BA%8EAI%E7%9A%84%E6%96%B0%E6%83%B3%E6%B3%95/1.jpg" class>
+<span id="more"></span>
 
 <p>有一天我在YouTube上看到一段视频</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0uQqMxXoNVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -129,7 +133,7 @@
 <p>这何尝也并非一种缘分呢？《园游会》以简单又明快的歌词，讲述了在园游会（据说是台湾的一种学生活动，类似于春游）中的一段懵懂的相恋故事，其中”园游会影片在播放，这个世界约好一起逛“是我最喜欢的部分，有着一种年少对未来的憧憬的感觉。</p>
 <p>在我的高三生活中，每次听到这首歌都会放松下来，不去考虑成绩，不去考虑种种琐事，带给我细腻又绵长的安心。</p>
 
-        <div id="aplayer-IqnhBzHu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ndYgVQVH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content">[ti:园游会]
 [ar:周杰伦]
 [al:七里香]
@@ -189,7 +193,7 @@
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IqnhBzHu"),
+            element: document.getElementById("aplayer-ndYgVQVH"),
             narrow: false,
             autoplay: false,
             showlrc: 2,
@@ -205,10 +209,10 @@
           window.aplayers.push(ap);
         </script>
 
-
+<span id="more"></span>
 <h2 id="No-Two-ひとり旅-独自之旅"><a href="#No-Two-ひとり旅-独自之旅" class="headerlink" title="No.Two ひとり旅 (独自之旅)"></a>No.Two ひとり旅 (独自之旅)</h2><p>正如这首歌的名字，歌词围绕”独自旅行“展开，不断向我们证明着，一个人也可以过的很好，不需要别人无聊的关心。初次接触时，是被其”nayinayinayi~~”的嗓音所吸引（真的太甜了!!!)，然而在离校回家的时候，看到它的歌词，突然发现自己也是所谓的”独自旅行”，便感受颇深。人大部分时间会是孤独的，如何与孤独相处，是我们毕生要学习的。</p>
 
-        <div id="aplayer-XPaGkXBJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-YyahECxQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content">[00:00.000] 作曲 : 瀬名航
 [00:00.000]音楽: 瀬名航
 [00:00.001]
@@ -297,7 +301,7 @@
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XPaGkXBJ"),
+            element: document.getElementById("aplayer-YyahECxQ"),
             narrow: false,
             autoplay: false,
             showlrc: 2,
@@ -313,7 +317,93 @@
           window.aplayers.push(ap);
         </script>
 
-<h2 id="No-Three-耳语"><a href="#No-Three-耳语" class="headerlink" title="No.Three 耳语"></a>No.Three 耳语</h2>]]></content>
+<h2 id="No-Three-耳语"><a href="#No-Three-耳语" class="headerlink" title="No.Three 耳语"></a>No.Three 耳语</h2><p>耳语应该是怎样的？</p>
+<p>是细腻，是绵长，是柔软，这便是《耳语》。锦零算是我最喜欢的自创作歌手了。最开始是她的《豆花之歌》入坑的。</p>
+<p>在九月的某一天，《耳语》这首歌被我单曲循环了88次，背后的原因已无可追踪……但这也决定着，《耳语》绝对是我今年最喜欢的音乐之一。</p>
+
+        <div id="aplayer-EgoDrLov" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content">[00:01.61]作词:沙棠
+[00:04.72]作曲:沙棠
+[00:08.11]编曲:周成
+[00:11.59]出品:网易飓风
+[00:15.60]奔逐向落日的鲸
+[00:19.00]终于在海平线相遇
+[00:22.42]书写童话一般 灿烂的奇景
+[00:29.18]微风拥抱着流云
+[00:32.67]带来浪漫的气息
+[00:35.53]此刻我为你写下这段旋律
+[00:41.37]当月遇见了星星
+[00:43.51]害羞躲进云里
+[00:45.19]隐藏起自作主张的爱意
+[00:48.26]你靠近对我耳语
+[00:50.46]星光就在你眼底
+[00:55.08]我快要听不清晰
+[00:57.31]你所说的耳语
+[00:58.72]加速升温心底的秘密
+[01:02.41]我也会鼓起勇气
+[01:04.47]用耳语告诉你
+[01:08.57]
+[01:24.27]奔逐向落日的鲸
+[01:27.50]终于在海平线相遇
+[01:30.92]书写童话一般 灿烂的奇景
+[01:37.58]微风拥抱着流云
+[01:41.18]带来了浪漫的气息
+[01:44.23]此刻我为你写下这段旋律
+[01:50.08]当月遇见了星星
+[01:51.83]害羞躲进云里
+[01:53.58]隐藏起自作主张的爱意
+[01:56.74]你靠近对我耳语
+[01:58.96]星光就在你眼底
+[02:03.64]我快要听不清晰
+[02:05.55]你所说的耳语
+[02:07.22]加速升温心底的秘密
+[02:11.04]我也会鼓起勇气
+[02:13.09]用耳语告诉你
+[02:16.67]
+[02:27.80]当月遇见了星星
+[02:29.58]害羞躲进云里
+[02:31.35]隐藏起自作主张的爱意
+[02:34.43]你靠近对我耳语
+[02:36.99]星光就在你眼底
+[02:41.47]我快要听不清晰
+[02:43.24]你所说的耳语
+[02:45.02]加速升温心底的秘密
+[02:48.61]我也会鼓起勇气
+[02:50.80]用耳语告诉你
+[02:55.51]我也会鼓起勇气
+[02:57.83]用耳语告诉你
+[03:02.76]制作人:黄愚人
+[03:03.48]吉他:周成
+[03:03.62]混音:Philip Au
+[03:04.06]和声:周弦
+[03:04.37]封面:喵
+[03:04.54]监制:黄成成
+[03:04.74]统筹:59@大笨钟
+[03:05.05]制作公司:大笨钟
+[03:05.29]","code":200}</pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-EgoDrLov"),
+            narrow: false,
+            autoplay: false,
+            showlrc: 2,
+            music: {
+              title: "耳语",
+              author: "锦零",
+              url: "耳语.flac",
+              pic: "/2023/01/03/vJanGo的年度音乐！/3.jpg",
+              lrc: "3.txt"
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+<h2 id="Others"><a href="#Others" class="headerlink" title="Others"></a>Others</h2><p>如果把今年喜欢的音乐一一列举出来，那将是一项很大的工程。以上3首算是最喜欢且最有意义的歌曲了，剩下的就贴一个网易云的年度歌单吧。</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="800" height="450" src="//music.163.com/outchain/player?type=0&id=7995458344&auto=0&height=430"></iframe>
+
+]]></content>
       <tags>
         <tag>分享</tag>
       </tags>
