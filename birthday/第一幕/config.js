@@ -30,26 +30,25 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "可爱的briol": "./imgs/nothing.jpg",
+        "可爱的briol": "./imgs/briol.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我遇见你的": "./imgs/zaiyiqi.png",
-        "第七个生日！": "./imgs/nothing.jpg",
+        "第七个生日！": "./imgs/birth7.jpg",
         "这七年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
-        "可爱的样子": "./imgs/nothing.jpg",
-        "生气的样子": "./imgs/nothing.jpg",
-        "都是你独一无二的样子": "./imgs/nothing.jpg",
+        "奇怪的样子": "./imgs/qiguai.jpg",
+        "可爱的样子": "./imgs/cute.jpg",
+        "生气的样子": "./imgs/anger.jpg",
+        "都是你独一无二的样子": "./imgs/strange.jpg",
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要好！好！吃！饭！": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
-       // "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "然后才有力气干活": "./imgs/work.jpg",
+        "生日快乐~~": "./imgs/happy.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我开始",
+        turn_on: "从这里开始~",
         play: "上音乐",
         bannar_coming: "来点颜色",
         balloons_flying: "好像还少点东西",
