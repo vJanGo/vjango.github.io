@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-09T11:06:43.039Z</updated>
+  <updated>2023-05-11T15:39:57.091Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一篇关于人工智能的结课论文</title>
+    <link href="http://example.com/2023/05/11/2023-5-11-%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8EAI%E7%9A%84%E8%AE%BA%E6%96%87/"/>
+    <id>http://example.com/2023/05/11/2023-5-11-%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8EAI%E7%9A%84%E8%AE%BA%E6%96%87/</id>
+    <published>2023-05-10T16:00:00.000Z</published>
+    <updated>2023-05-11T15:39:57.091Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一篇关于人工智能的结课论文&quot;&gt;&lt;a href=&quot;#一篇关于人工智能的结课论文&quot; class=&quot;headerlink&quot; title=&quot;一篇关于人工智能的结课论文&quot;&gt;&lt;/a&gt;一篇关于人工智能的结课论文&lt;/h1&gt;&lt;p&gt;​        好久好久没有更新blog了，每天处于一种半死不活的状态，这令我很沮丧。我计划写一本长长的游记《独自旅行》，这是我最喜欢的音乐，也逐渐成为我最享受的时刻。不知为何，一个人，漫无目的，听起来让人孤独的绝望，在我看来确实那样的自由。&lt;/p&gt;
+&lt;p&gt;​        回到正题上，本学期选修了一门《科学史与人类文明》，虽说摸鱼的时间更多，但还是让我受益匪浅，我也颇有感悟的写下了这篇论文，鉴于本人实在嘴笨，能力实在有限，权当作文一看。&lt;br&gt;(中间有些地方是ai写的，不妨找找看(&lt;em&gt;^_^&lt;/em&gt;)）&lt;/p&gt;
+&lt;h2 id=&quot;以下是正文&quot;&gt;&lt;a href=&quot;#以下是正文&quot; class=&quot;headerlink&quot; title=&quot;以下是正文&quot;&gt;&lt;/a&gt;以下是正文&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>vJanGo的年度音乐！</title>
